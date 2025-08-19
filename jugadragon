@@ -1,0 +1,9 @@
+{
+    "DragonEnable": false,
+    "DragonLang": ["Portuguese"],
+    "DragonTime": ["Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
+    "DragonLink": 
+    [ 
+          { "Lang":"Portuguese", "Links": [""]}
+    ]
+ }
