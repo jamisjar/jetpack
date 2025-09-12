@@ -1,0 +1,9 @@
+{
+    "JugaMagEnable": false,
+    "JugaMagLang": ["Russian"],
+    "JugaMagTime": ["Yekaterinburg"],
+    "JugaMagLink": 
+    [ 
+          { "Lang":"Russian", "Links": [""]}
+    ]
+ }
