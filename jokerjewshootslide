@@ -1,0 +1,9 @@
+{
+  "Enable": false,
+  "GaneshaLocale": ["Russian"],
+  "GaneshaTimes": ["Yekaterinburg"],
+  "GaneshaLinks":
+  [
+    { "Lang":"Russian", "Link": [""]}
+  ]
+}
