@@ -1,9 +1,9 @@
 {
-    "JktEnable": false,
-    "JktLang": ["Russian"],
-    "JktTime": ["Yekaterinburg"],
+    "JktEnable": true,
+    "JktLang": ["Spanish"],
+    "JktTime": ["Buenos_Aires", "Argentina", "Tijuana", "Mazatlan", "Ciudad_Juarez","Hermosillo", "Ojinaga", "Chihuahua", "Matamoros", "Mexico_City", "Cancun", "Santiago" , "Easter", "Punta_Arenas"],
     "JktLink": 
     [ 
-          { "Lang":"Russian", "Links": [""]}
+          { "Lang":"Spanish", "Links": ["https://1wfzws.life/casino/list?open=register&p=34jd"]}
     ]
  }
